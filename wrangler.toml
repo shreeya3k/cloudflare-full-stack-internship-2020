@@ -1,0 +1,6 @@
+name = "shreeya-summer-2020"
+type = "webpack"
+account_id = "40c0a07256f03edeb9ebb792d6b7acb1"
+workers_dev = true
+route = ""
+zone_id = ""
